@@ -11,6 +11,12 @@
   "description": "",
   "devDependencies": {
     "@types/node": "^24.0.4",
+    "@typescript-eslint/eslint-plugin": "^8.35.0",
+    "eslint": "^9.29.0",
+    "eslint-config-love": "^121.0.0",
+    "eslint-plugin-import": "^2.32.0",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^7.2.1",
     "git-commit-msg-linter": "^5.0.8",
     "typescript": "^5.8.3"
   }
