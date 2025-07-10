@@ -1,6 +1,7 @@
 {
     "*.{ts,tsx}": [
         "eslint 'src/**' --fix",
+        "tsc --noEmit",
         "npm run test:staged"
     ]
 }
